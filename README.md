@@ -4,7 +4,7 @@
 ---
 
 ## Overview  
-This project focuses on improving LTE network performance by predicting and optimizing key performance indicators (KPIs) using machine learning models. The study leverages real-world data to analyze network performance trends and applies models like **Random Forest**, **Support Vector Regression (SVR)**, and **Linear Regression** to enhance throughput, reduce latency, and optimize resource allocation.
+This project is part of my Master's thesis and focuses on improving LTE network performance by predicting and optimizing key performance indicators (KPIs) using machine learning models. The study leverages real-world data to analyze network performance trends and applies models like Random Forest, Support Vector Regression (SVR), and Linear Regression to enhance throughput, reduce latency, and optimize resource allocation.
 
 ---
 
